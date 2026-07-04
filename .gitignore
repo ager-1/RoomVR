@@ -1,0 +1,21 @@
+# Unreal Engine Specific Folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio and IDE Files
+.vs/
+.vscode/
+*.sln
+*.suo
+*.sdf
+*.opendb
+*.VC.db
+*.xcworkspace/
+*.xcodeproj/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
